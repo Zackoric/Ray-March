@@ -33,7 +33,7 @@
 
 <h1 align="middle">Abstract</h1>
 <p>This is a project is a 2 dimensional ray tracer using ray marching. In the class, we went over rasterization and ray tracing, which are both approaches to render 3D scenes onto a 2D screen. Ray marching is a category of ray tracing that instead of analytically calculating where on an explicit surface a ray might hit, ray marching advances the ray (from the origin) to its direction based on how far the end point is from any objects in the scene. What makes ray marching so powerful is that all geometry needs only to be defined by a signed distance function to be render to any arbitrary precision. This allows ray marching to render complex geometric objects that would be otherwise impossible to render using ray tracing. Calculating normals are also easy as you can take the gradient of a small step and take the normal from that. I also implemented spectral ray marching, which gives different colored rays a different index of refraction so that they bend differently around edges and give the rainbow colors when refracting out of a surface.</p>
-
+<a href="https://youtu.be/gAFOPTzR7Mg">Watch the Video!</a>
 <h1 align="middle">Technical Approach</h1>
 
 This project is written in C++ with the GLM math library and SFML library purely to creating the GUI window, draw pixels, lines, spheres, and take screenshots.
@@ -44,7 +44,7 @@ This project is written in C++ with the GLM math library and SFML library purely
 <table style="width=100%">
     <tr>
         <td>
-        <p style="text-align:center;"><img src="p2.png" width="600px" /></p>
+        <p style="text-align:center;"><img src="p2.PNG" width="600px" /></p>
         <figcaption align="middle">Ray Marching Illustration Fig. 1</figcaption>
         </td>
     </tr>
@@ -81,7 +81,7 @@ The one-sided parabolic lens shown above is created using a similar technique. T
 <table style="width=100%:text-align:center", class = "center">
     <tr>
         <td>
-        <img src="p9.PNG" width="600px" />
+        <img src="p9.png" width="600px" />
         </td>
     </tr>
 </table>
@@ -183,7 +183,7 @@ The dispersion idea was inspired by the Tantalum by Benedikt Bitterli [1] and ju
   <tbody>
     <tr>
         <td>
-        <img src="p16.PNG" width="600px" />
+        <img src="p16.png" width="600px" />
         <figcaption align="middle">A Smoothing Function</figcaption>
         </td>
     </tr>
