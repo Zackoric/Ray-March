@@ -1,0 +1,148 @@
+﻿  RayCast.cpp
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(158,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(158,142): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(159,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(159,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(159,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(170,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(171,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(178,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(179,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(236,18): warning C4244: '=': conversion from '_Ret' to 'float', possible loss of data
+          with
+          [
+              _Ret=double
+          ]
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(259,73): warning C4244: 'return': conversion from '_Ret' to 'float', possible loss of data
+          with
+          [
+              _Ret=double
+          ]
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(60,46): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(66,42): warning C4244: '=': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(72,43): warning C4244: '=': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(75,42): warning C4244: '=': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(81,43): warning C4244: '=': conversion from 'double' to 'sf::Uint8', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(131,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(131,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(169,14): warning C4305: '+=': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(292,18): warning C4305: '+=': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(298,18): warning C4305: '-=': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(304,18): warning C4305: '+=': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(310,18): warning C4305: '-=': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(316,20): warning C4305: '+=': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(321,20): warning C4305: '-=': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(343,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(344,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(373,45): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(374,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(380,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\RayCast.cpp(381,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  SceneRender.cpp
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(158,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(158,142): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(159,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(159,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(159,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(170,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(171,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(178,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(179,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(236,18): warning C4244: '=': conversion from '_Ret' to 'float', possible loss of data
+          with
+          [
+              _Ret=double
+          ]
+E:\berkeley\su20 CS 184\RayCast\SceneRender.hpp(259,73): warning C4244: 'return': conversion from '_Ret' to 'float', possible loss of data
+          with
+          [
+              _Ret=double
+          ]
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(9,56): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(10,56): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(11,45): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(13,85): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(16,86): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(18,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(21,94): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(22,93): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(76,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(131,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\type_traits(1610,1): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation '_Ty std::_Invoker_functor::_Call<<lambda_e38c509e985629a3cb494c2ad658512d>&,double,double>(_Callable,double &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=float,
+              _Callable=<lambda_e38c509e985629a3cb494c2ad658512d> &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\type_traits(1635): message : see reference to function template instantiation '_Ty std::invoke<<lambda_e38c509e985629a3cb494c2ad658512d>&,double,double>(_Callable,double &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=float,
+              _Callable=<lambda_e38c509e985629a3cb494c2ad658512d> &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\functional(925): message : see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty,_Ty>(_Callable &,_Ty &&,_Ty &&)' being compiled
+          with
+          [
+              _Rx=double,
+              _Callable=<lambda_e38c509e985629a3cb494c2ad658512d>,
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\functional(926): message : see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty,_Ty>(_Callable &,_Ty &&,_Ty &&)' being compiled
+          with
+          [
+              _Rx=double,
+              _Callable=<lambda_e38c509e985629a3cb494c2ad658512d>,
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\functional(925): message : while compiling class template member function '_Rx std::_Func_impl_no_alloc<<lambda_e38c509e985629a3cb494c2ad658512d>,_Rx,double,double>::_Do_call(double &&,double &&)'
+          with
+          [
+              _Rx=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\functional(807): message : see reference to class template instantiation 'std::_Func_impl_no_alloc<<lambda_e38c509e985629a3cb494c2ad658512d>,_Ret,double,double>' being compiled
+          with
+          [
+              _Ret=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\functional(1019): message : see reference to variable template 'const bool _Is_large<std::_Func_impl_no_alloc<<lambda_e38c509e985629a3cb494c2ad658512d>,double,double,double> >' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\functional(1155): message : see reference to function template instantiation 'void std::_Func_class<_Ret,double,double>::_Reset<<lambda_e38c509e985629a3cb494c2ad658512d>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=double,
+              _Fx=<lambda_e38c509e985629a3cb494c2ad658512d>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\functional(1155): message : see reference to function template instantiation 'void std::_Func_class<_Ret,double,double>::_Reset<<lambda_e38c509e985629a3cb494c2ad658512d>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=double,
+              _Fx=<lambda_e38c509e985629a3cb494c2ad658512d>
+          ]
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(24): message : see reference to function template instantiation 'std::function<double (double,double)>::function<<lambda_e38c509e985629a3cb494c2ad658512d>,0>(_Fx)' being compiled
+          with
+          [
+              _Fx=<lambda_e38c509e985629a3cb494c2ad658512d>
+          ]
+E:\berkeley\su20 CS 184\RayCast\SceneRender.cpp(24): message : see reference to function template instantiation 'std::function<double (double,double)>::function<<lambda_e38c509e985629a3cb494c2ad658512d>,0>(_Fx)' being compiled
+          with
+          [
+              _Fx=<lambda_e38c509e985629a3cb494c2ad658512d>
+          ]
+  Generating code
+  3 of 477 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayCast.vcxproj -> E:\berkeley\su20 CS 184\RayCast\x64\Release\RayCast.exe

@@ -1,0 +1,2 @@
+﻿RayCast.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+E:\berkeley\su20 CS 184\RayCast\x64\Debug\RayCast.exe : fatal error LNK1120: 1 unresolved externals
